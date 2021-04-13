@@ -1,0 +1,31 @@
+body{
+    display: grid;
+    place-items: center;
+    text-align: center;
+    background-color: rgb(54, 54, 236);
+}
+#main-container{
+    /* position: absolute; */
+    display: flex;
+}
+
+.counter{
+    font-size: 3rem;
+    color: rgb(252, 206, 0);
+}
+.container{
+    /* position: relative; */
+    /* border: 2px solid black; */
+    /* display:flex; */
+    /* text-align: center; */
+    margin: 10px 50px ;
+    padding: 10px 10px ;
+    margin-top: 100px;
+    font-size: 1.2rem;
+    color: white;
+}
+
+.counter{
+    /* display: flex; */
+    /* flex-direction: column; */
+}
